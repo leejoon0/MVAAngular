@@ -38,7 +38,7 @@ angular.module('eventModule', [])
 	}
 
 	this.getIndex=function(){
-		return(thiss.index);
+		return(this.index);
 	}
 	
 }])
